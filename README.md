@@ -1,5 +1,5 @@
 This is an AI chatbot interface, where you can also search for images. It is my first public interface.
-It is a [Next.js](https://nextjs.org/) project built on React and TailwindCSS.
+It is a [Next.js](https://nextjs.org/) project built on React and TailwindCSS. Please note that some integrations and componenets must be customized for the project to work.
 
 ## Getting Started
 

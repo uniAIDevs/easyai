@@ -1,5 +1,4 @@
-This project was generated from [create.xyz](https://create.xyz/).
-
+This is an AI chatbot interface, where you can also search for images. It is my first public interface.
 It is a [Next.js](https://nextjs.org/) project built on React and TailwindCSS.
 
 ## Getting Started
